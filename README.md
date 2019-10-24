@@ -5,7 +5,7 @@ linux_std
 
 ftp_address=192.144.205.210
 user=root
-password=zhang123456@
+password=@
 
 #本地变更的文件夹
 local_path="C:/Users/kylin/Desktop/sh/java1"
